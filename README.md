@@ -6,3 +6,6 @@ Aplikace je určena podnikům nabízející rostlinný sortiment a příslušens
 - Zákazníci - Lidé, kteří shánějí určitou rostlinu v jejich blízkosti nebo hledají odbornou radu.
 ## Dokumentace
 - Postupy
+## Postupy
+- Jak přidat produkt
+- Jak zjistit, kde se prodává daný produkt
