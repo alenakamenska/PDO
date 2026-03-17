@@ -7,8 +7,8 @@ Aplikace je určena podnikům nabízející rostlinný sortiment a příslušens
 ## Dokumentace
 - Návod - MK docs
 ### Postupy
-- Jak přidat produkt
-- Jak zjistit, kde se prodává daný produkt
+- Přidání produkt
+- Kde se prodává daný produkt
 ### Konceptuální popis
 - Podnik
 - Produkt
